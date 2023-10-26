@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    
+    
+}
+
+.counter {
+    text-align: center;
+    margin: 50px;
+    display: flex;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+.count {
+    border: 1px solid black;
+    padding-inline: 7px;
+    padding-block: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
